@@ -1,0 +1,9 @@
+com.foo.bar.stuff:
+  a: 1
+  b: hello
+---
+org.whatever:
+  x: 6
+  y: d
+  a: 3
+---
